@@ -1,16 +1,10 @@
-# Assignment 1 | Sarah Bond | B00802485
-# Individual Submission
+# Sustainablilty Website | Sarah Bond | B00802485
 
-Heroku Assignment 1 Link: 
-https://awdlearning.herokuapp.com/index.html
+Heroku Link: 
+https://novascotiasustainability.herokuapp.com
 
-CSCI4177Assignment Gitlab Link:
-https://git.cs.dal.ca/sbond/csci4177assignment1
-
-# Exisiting Code Used
-Tutorial 2 code: https://git.cs.dal.ca/sbond/csci4177t2_individual 
-    Author: Sarah Bond
-    Reason: Re-used the code to establish a connection. I modified this code by adding additional features such as html files to develop an application. 
+CSCI4177Assignment GitHub Link:
+https://github.com/Sbondii/sustainabilityWebsite
 
 # References
 Bootstrap Reference: https://bootstrapmade.com
@@ -21,6 +15,8 @@ tennisBalls: https://www.pexels.com/photo/a-close-up-shot-of-tennis-balls-573923
 catToy: https://www.pexels.com/photo/kid-playing-with-black-cat-6864017/
 favourite icon: https://www.flaticon.com/free-icon/favorite_73814
 solarSlide1: https://images.pexels.com/photos/9875408/pexels-photo-9875408.jpeg?cs=srgb&dl=pexels-kindel-media-9875408.jpg&fm=jpg
+solarSlide2: https://images.pexels.com/photos/414837/pexels-photo-414837.jpeg?cs=srgb&dl=pexels-pixabay-414837.jpg&fm=jpg
+Information referencing: https://github.com/Sbondii/sustainabilityWebsite
 
 
 

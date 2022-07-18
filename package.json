@@ -1,0 +1,22 @@
+{
+  "name": "t2_individual",
+  "version": "1.0.0",
+  "description": "Tutorial2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sbondii/t2_individual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sbondii/t2_individual/issues"
+  },
+  "homepage": "https://github.com/Sbondii/t2_individual#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
